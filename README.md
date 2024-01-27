@@ -1,5 +1,5 @@
 <h1 align="center">Hola, mi nombre es Marcos López 👋👨🏻‍💻</h1>
-<h3 align="center">Un apasionado del desarrollo de software</h3>
+<h3 align="center">Un apasionado de la tecnologia</h3>
 
 ![MARCOS LÓPEZ](https://github.com/Codermex-freelance/Codermex/assets/143505447/d8d877c5-9296-4111-a9a8-9a83ce229083)
 
