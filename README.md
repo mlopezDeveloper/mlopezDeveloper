@@ -1,15 +1,11 @@
-<h1 align="center">Hola, mi nombre es Marcos López 👋👨🏻‍💻</h1>
+<h1 align="center">Hola, mi nombre es Marcos López 👋👨</h1>
 <h3 align="center">Un apasionado de la tecnologia</h3>
-
-![MARCOS LÓPEZ](https://github.com/Codermex-freelance/Codermex/assets/143505447/d8d877c5-9296-4111-a9a8-9a83ce229083)
 
 - 🔭 En la actualidad estoy trabajando en la empresa **CNP Seguros** como Analista IT
 
 - 🌱 Actualmente estoy perfeccionando mis habilidades en **HTML5, CSS3 y JAVASCRIPT**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [PORTAFOLIO](PORTAFOLIO)
-
-- 📫 Cómo contactarme **codermex.web@gmail.com**
+- 📫 Cómo contactarme **developermlopez@gmail.com**
 
 <h3 align="left">Conectate conmigo en:</h3>
 <p align="left">
