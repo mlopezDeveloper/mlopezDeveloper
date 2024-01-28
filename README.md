@@ -28,7 +28,3 @@
 [![vscode](https://img.shields.io/badge/VISUALCODE-098BC7?style=for-the-badge&labelColor=101010)]()
 
  
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=company-codermex&show_icons=true&locale=en&layout=compact" alt="company-codermex" /></p>
-
