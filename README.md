@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://codermex-freelance.github.io">Marcos López</a> 👋</h1>
 </div>
-<img src="https://imgur.com/I4ptQz3">
+<img src="https://imgur.com/I4ptQz3.png">
 
 
 
