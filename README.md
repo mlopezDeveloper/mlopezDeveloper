@@ -4,7 +4,7 @@
 <img src="https://imgur.com/I4ptQz3.png">
 
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/codermexdev)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/Codermex-freelance)
+[![GitHub followers](https://img.shields.io/github/followers/Codermex-freelance?style=social)](https://github.com/Codermex-freelance)
 ![Discord Shield](https://discord.gg/cnGkEDNC)
 
 
