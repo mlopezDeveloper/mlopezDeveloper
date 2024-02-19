@@ -12,7 +12,7 @@
 - 👍🏻 Analista IT en CNP Seguros
 - 🎥 Desarrollamos en [Twitch](https://www.twitch.tv/codermexdev)
 
-## Habilidades
+## Tecnologías
 
 [![HTML5](https://img.shields.io/badge/HTML-FB6D04?style=for-the-badge&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS-0453FB?style=for-the-badge&labelColor=101010)]()
