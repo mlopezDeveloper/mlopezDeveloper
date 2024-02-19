@@ -5,7 +5,7 @@
 
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/codermexdev)
 [![GitHub followers](https://img.shields.io/github/followers/Codermex-freelance?style=social)](https://github.com/Codermex-freelance)
-[![Discord](https://img.shields.io/discord/1159578696701706240?style=social&label=Discord&logo=discord)]
+![Discord](https://img.shields.io/discord/1159578696701706240?style=social&label=Discord&logo=discord)
 
 ## Sobre mi
 
