@@ -13,7 +13,18 @@
 - 🎥 Desarrollamos en [Twitch](https://www.twitch.tv/codermexdev)
 <br>
 
+## Habilidades
 
+[![HTML](https://img.shields.io/badge/HTML-FB6D04?style=for-the-badge&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-0453FB?style=for-the-badge&labelColor=101010)]()
+[![SASS](https://img.shields.io/badge/SASS-ed9de8?style=for-the-badge&labelColor=101010)]()
+[![Boostrap](https://img.shields.io/badge/BOOSTRAP-8304FB?style=for-the-badge&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&labelColor=101010)]()
+[![SQLSERVER](https://img.shields.io/badge/SQLSERVER-FFFB00?style=for-the-badge&labelColor=101010)]()
+[![MONGODB](https://img.shields.io/badge/MONGODB-20a31d?style=for-the-badge&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/PYTHON-fddf68?style=for-the-badge&logo=labelColor=101010)]()
+[![DJango](https://img.shields.io/badge/DJANGO-green?style=for-the-badge&labelColor=101010)]()
+[![vscode](https://img.shields.io/badge/VISUALCODE-098BC7?style=for-the-badge&labelColor=101010)]()
 
 
 
@@ -47,15 +58,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos_Lopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221/)
 <br>
 ## Tecnologías:
-[![HTML](https://img.shields.io/badge/HTML-FB6D04?style=for-the-badge&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-0453FB?style=for-the-badge&labelColor=101010)]()
-[![SASS](https://img.shields.io/badge/SASS-ed9de8?style=for-the-badge&labelColor=101010)]()
-[![Boostrap](https://img.shields.io/badge/BOOSTRAP-8304FB?style=for-the-badge&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&labelColor=101010)]()
-[![SQLSERVER](https://img.shields.io/badge/SQLSERVER-FFFB00?style=for-the-badge&labelColor=101010)]()
-[![MONGODB](https://img.shields.io/badge/MONGODB-20a31d?style=for-the-badge&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/PYTHON-fddf68?style=for-the-badge&logo=labelColor=101010)]()
-[![DJango](https://img.shields.io/badge/DJANGO-green?style=for-the-badge&labelColor=101010)]()
-[![vscode](https://img.shields.io/badge/VISUALCODE-098BC7?style=for-the-badge&labelColor=101010)]()
+
 
  
