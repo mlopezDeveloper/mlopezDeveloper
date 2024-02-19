@@ -19,7 +19,7 @@
 [![CSS3](https://img.shields.io/badge/CSS-0453FB?style=for-the-badge&labelColor=101010)]()
 [![SASS](https://img.shields.io/badge/SASS-ed9de8?style=for-the-badge&labelColor=101010)]()
 [![Boostrap](https://img.shields.io/badge/BOOSTRAP-8304FB?style=for-the-badge&labelColor=101010)]()
-[![JavaScript ES6](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&labelColor=101010)]()
 [![SQLSERVER](https://img.shields.io/badge/SQLSERVER-FFFB00?style=for-the-badge&labelColor=101010)]()
 [![MONGODB](https://img.shields.io/badge/MONGODB-20a31d?style=for-the-badge&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/PYTHON-fddf68?style=for-the-badge&logo=labelColor=101010)]()
