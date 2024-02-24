@@ -24,7 +24,6 @@
 [![Python](https://img.shields.io/badge/PYTHON-fddf68?style=for-the-badge&logo=labelColor=101010)]()
 [![DJango](https://img.shields.io/badge/DJANGO-green?style=for-the-badge&labelColor=101010)]()
 [![vscode](https://img.shields.io/badge/VISUALCODE-098BC7?style=for-the-badge&labelColor=101010)]()
-
 [![git](https://img.shields.io/badge/GIT-red?style=for-the-badge&labelColor=red)]()
 
 ### ⚙️ &nbsp;GitHub Analytics
