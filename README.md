@@ -11,7 +11,7 @@
 
 - 👍🏻 Analista IT en CNP Seguros
 - 🎥 Desarrollamos en [Twitch](https://www.twitch.tv/codermexdev)
-- 👍🏻 Comparto codigos corto que ayudan en [Gist](https://gist.github.com/Codermex-freelance)
+- ✔️​ Comparto codigos corto que ayudan en [Gist](https://gist.github.com/Codermex-freelance)
 
 ## Tecnologías
 
