@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/discord/1159578696701706240?style=social&label=Discord&logo=discord)](https://discord.gg/45qd2ZBk)
 
 ## Sobre mi
-Soy programador desde 2020. He trabajado en dos importantes compañías de seguros y, posteriormente, he desarrollado una cartera de clientes propios, lo que me ha permitido desempeñarme como freelance de manera adicional.
+Soy programador desde 2019. He trabajado en dos importantes compañías de seguros y, posteriormente, he desarrollado una cartera de clientes propios, lo que me ha permitido desempeñarme como freelance de manera adicional.
 
 Desde que ingresé al mundo de la tecnología, he tenido el sueño de expandir mis conocimientos para comprender todas sus lógicas, crear mi propia empresa tecnológica y convertirme en un divulgador de la programación. Aspiro a construir una comunidad global de programadores y ser reconocido como un destacado profesional en el campo.
 
@@ -25,7 +25,7 @@ Desde que ingresé al mundo de la tecnología, he tenido el sueño de expandir m
 
 [![Email](https://img.shields.io/badge/developermlopez@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:developermlopez@gmail.com)
 
-### ⚙️ &nbsp;GitHub Analytics
+### &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Codermex-freelance">
