@@ -8,8 +8,10 @@
 [![Discord](https://img.shields.io/discord/1159578696701706240?style=social&label=Discord&logo=discord)](https://discord.gg/45qd2ZBk)
 
 ## Sobre mi
+Soy programador desde 2020. He trabajado en dos importantes compañías de seguros y, posteriormente, he desarrollado una cartera de clientes propios, lo que me ha permitido desempeñarme como freelance de manera adicional.
 
-- 👍🏻 Analista IT en CNP Seguros
+Desde que ingresé al mundo de la tecnología, he tenido el sueño de expandir mis conocimientos para comprender todas sus lógicas, crear mi propia empresa tecnológica y convertirme en un divulgador de la programación. Aspiro a construir una comunidad global de programadores y ser reconocido como un destacado profesional en el campo.
+
 - 🎥 Desarrollamos en [Twitch](https://www.twitch.tv/codermexdev)
 - ✔️​ Comparto codigos corto que ayudan en [Gist](https://gist.github.com/Codermex-freelance)
 
