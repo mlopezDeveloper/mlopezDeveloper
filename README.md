@@ -12,6 +12,8 @@ Soy programador desde 2019. He trabajado en dos importantes compañías de segur
 
 Desde que ingresé al mundo de la tecnología, he tenido el sueño de expandir mis conocimientos para comprender todas sus lógicas, crear mi propia empresa tecnológica y convertirme en un divulgador de la programación. Aspiro a construir una comunidad global de programadores y ser reconocido como un destacado profesional en el campo.
 
+Desarrollando mis sueños desde Argentina - Buenos Aires
+
 ## Encuentrame en:
 <br>
 
@@ -34,10 +36,6 @@ Desde que ingresé al mundo de la tecnología, he tenido el sueño de expandir m
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Codermex-freelance&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<br>
-DESARROLLANDO MIS SUEÑOS DESDE ARGENTINA - BUENOS AIRES
-
 
 
 
