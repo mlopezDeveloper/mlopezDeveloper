@@ -16,7 +16,9 @@ Desde que ingresé al mundo de la tecnología, he tenido el sueño de expandir m
 - ✔️​ Comparto codigos corto que ayudan en [Gist](https://gist.github.com/Codermex-freelance)
 
 ##Encuentrame en:
+</br>
 [![Instagram](https://img.shields.io/badge/Instagram-@marquitosdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/marquitosdev)
+[![Twitch](https://img.shields.io/badge/Twitch-codermexdev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://www.twitch.tv/codermexdev)
 
 ## Tecnologías
 
