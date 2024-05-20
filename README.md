@@ -22,6 +22,7 @@ Desde que ingresé al mundo de la tecnología, he tenido el sueño de expandir m
 [![Gist](https://img.shields.io/badge/gist-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://gist.github.com/Codermex-freelance)
 
 ## Contacto:
+<br>
 
 [![Email](https://img.shields.io/badge/developermlopez@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:developermlopez@gmail.com)
 
