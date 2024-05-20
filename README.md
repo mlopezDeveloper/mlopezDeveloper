@@ -35,8 +35,8 @@ Desde que ingresé al mundo de la tecnología, he tenido el sueño de expandir m
 </a>
 </p>
 
-
-
+<br>
+DESARROLLANDO MIS SUEÑOS DESDE ARGENTINA - BUENOS AIRES
 
 
 
