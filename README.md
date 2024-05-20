@@ -12,14 +12,14 @@ Soy programador desde 2020. He trabajado en dos importantes compañías de segur
 
 Desde que ingresé al mundo de la tecnología, he tenido el sueño de expandir mis conocimientos para comprender todas sus lógicas, crear mi propia empresa tecnológica y convertirme en un divulgador de la programación. Aspiro a construir una comunidad global de programadores y ser reconocido como un destacado profesional en el campo.
 
-- 🎥 Desarrollamos en [Twitch](https://www.twitch.tv/codermexdev)
 - ✔️​ Comparto codigos corto que ayudan en [Gist](https://gist.github.com/Codermex-freelance)
 
 ##Encuentrame en:
 </br>
 [![Instagram](https://img.shields.io/badge/Instagram-@marquitosdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/marquitosdev)
 [![Twitch](https://img.shields.io/badge/Twitch-codermexdev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://www.twitch.tv/codermexdev)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lopez_Marcos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221)
+[![Portafolio](https://img.shields.io/badge/Portafolio-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://codermex-freelance.github.io/)
 ## Tecnologías
 
 [![HTML5](https://img.shields.io/badge/HTML-FB6D04?style=for-the-badge&labelColor=101010)]()
