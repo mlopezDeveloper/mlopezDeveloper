@@ -33,7 +33,7 @@ Desarrollando mis sueños desde Argentina - Buenos Aires
 <p align="center">
 <a href="https://github.com/Codermex-freelance">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mlopezDeveloper&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BreadcrumbsmlopezDeveloper&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mlopezDeveloper&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
