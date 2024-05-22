@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://codermex-freelance.github.io">Marcos López</a> 👋 </h1>
+<h1 align="center">Hola, soy <a href="https://mlopezdeveloper.github.io/">Marcos López</a> 👋 </h1>
 </div>
 <img src="https://imgur.com/I4ptQz3.png">
 
@@ -20,7 +20,7 @@ Desarrollando mis sueños desde Argentina - Buenos Aires
 [![Instagram](https://img.shields.io/badge/Instagram-@marquitosdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/marquitosdev)
 [![Twitch](https://img.shields.io/badge/Twitch-codermexdev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://www.twitch.tv/codermexdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lopez_Marcos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221)
-[![Portafolio](https://img.shields.io/badge/Portafolio-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://codermex-freelance.github.io/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mlopezdeveloper.github.io/)
 [![Gist](https://img.shields.io/badge/gist-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://gist.github.com/mlopezDeveloper)
 
 ## Contacto:
