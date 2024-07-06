@@ -17,8 +17,8 @@ Desarrollando mis sueños desde Argentina - Buenos Aires
 ## Encuentrame en:
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-@marquitosdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/marquitosdev)
-[![Twitch](https://img.shields.io/badge/Twitch-codermexdev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://www.twitch.tv/codermexdev)
+[![Instagram](https://img.shields.io/badge/Instagram-@marquitosdev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/MLOPEZDEV_/)
+[![Twitch](https://img.shields.io/badge/Twitch-codermexdev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://www.twitch.tv/mlopezdev_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lopez_Marcos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221)
 [![Portafolio](https://img.shields.io/badge/Portafolio-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mlopezdeveloper.github.io/)
 [![Gist](https://img.shields.io/badge/gist-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://gist.github.com/mlopezDeveloper)
