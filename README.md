@@ -3,9 +3,7 @@
 </div>
 <img src="https://imgur.com/I4ptQz3.png">
 
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/codermexdev)
 [![GitHub followers](https://img.shields.io/github/followers/mlopezDeveloper?style=social)](https://github.com/mlopezDeveloper)
-[![Discord](https://img.shields.io/discord/1159578696701706240?style=social&label=Discord&logo=discord)](https://discord.com/invite/peCMQH9Utg)
 
 ## Sobre mi
 Soy programador desde 2019. He trabajado en dos importantes compañías de seguros y, posteriormente, he desarrollado una cartera de clientes propios, lo que me ha permitido desempeñarme como freelance de manera adicional.
@@ -18,7 +16,6 @@ Desarrollando mis sueños desde Argentina - Buenos Aires
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-@mlopezdev_-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/MLOPEZDEV_/)
-[![Twitch](https://img.shields.io/badge/Twitch-mlopezdev_-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://www.twitch.tv/mlopezdev_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lopez_Marcos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-antonio-lopez-561a69221)
 [![Portafolio](https://img.shields.io/badge/Portafolio-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mlopezdeveloper.github.io/)
 [![Gist](https://img.shields.io/badge/gist-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://gist.github.com/mlopezDeveloper)
