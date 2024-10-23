@@ -4,6 +4,7 @@
 <img src="https://imgur.com/I4ptQz3.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/mlopezDeveloper?style=social)](https://github.com/mlopezDeveloper)
+![image](https://github.com/user-attachments/assets/991764cf-84c3-46f1-b2f3-8b1d171bb0a1)
 
 ## Sobre mi
 Soy programador desde 2019. He trabajado en dos importantes compañías de seguros y, posteriormente, he desarrollado una cartera de clientes propios, lo que me ha permitido desempeñarme como freelance de manera adicional.
