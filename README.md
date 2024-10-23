@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://portafolio-dev-2x2w.vercel.app/">Marcos López</a> 👋 </h1>
 </div>
-<img src="![image](https://github.com/user-attachments/assets/35bc36e5-d66f-4b22-bc8d-1dcd956e90d6)
-">
+![image](https://github.com/user-attachments/assets/b8138e1a-ec7d-40eb-9f5e-84db47036394)
+
 
 [![GitHub followers](https://img.shields.io/github/followers/mlopezDeveloper?style=social)](https://github.com/mlopezDeveloper)
 
