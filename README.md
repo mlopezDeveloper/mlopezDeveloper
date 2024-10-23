@@ -1,9 +1,10 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://portafolio-dev-2x2w.vercel.app/">Marcos López</a> 👋 </h1>
 </div>
-<img src="https://imgur.com/I4ptQz3.png">
+<img src="![image](https://github.com/user-attachments/assets/35bc36e5-d66f-4b22-bc8d-1dcd956e90d6)
+">
 
-[![GitHub followers](https://github.com/user-attachments/assets/991764cf-84c3-46f1-b2f3-8b1d171bb0a1)
+[![GitHub followers](https://img.shields.io/github/followers/mlopezDeveloper?style=social)](https://github.com/mlopezDeveloper)
 
 ## Sobre mi
 Soy programador desde 2019. He trabajado en dos importantes compañías de seguros y, posteriormente, he desarrollado una cartera de clientes propios, lo que me ha permitido desempeñarme como freelance de manera adicional.
